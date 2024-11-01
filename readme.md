@@ -26,7 +26,7 @@ your-project/
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/student-information-system.git
+   git clone https://github.com/Saravanakumar-Kalyan/student-info.git
    ```
    ```sh
    cd student-information-system
