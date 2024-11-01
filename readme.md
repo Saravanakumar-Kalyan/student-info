@@ -32,14 +32,17 @@ your-project/
    cd student-information-system
 
 2. **Install Dependencies:**
+   ```sh
+   npm init -y
+   ```
     ```sh
     npm install express
 
-3. **Run the server:**
+4. **Run the server:**
     ```sh
     node server.js
 
-4. Open your browser and navigate to http://localhost:8000/ to access the page.
+5. Open your browser and navigate to http://localhost:8000/ to access the page.
 
 
 ## Usage
