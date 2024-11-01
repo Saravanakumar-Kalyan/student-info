@@ -1,0 +1,38 @@
+[
+  {
+    "name": "John Doe",
+    "rollNo": 1234,
+    "regNo": "REG1234",
+    "course": "Computer Science",
+    "semester": "5",
+    "phone": "123-456-7890",
+    "email": "john.doe@example.com"
+  },
+  {
+    "name": "Jane Smith",
+    "rollNo": 5678,
+    "regNo": "REG5678",
+    "course": "Mechanical Engineering",
+    "semester": "6",
+    "phone": "987-654-3210",
+    "email": "jane.smith@example.com"
+  },
+  {
+    "name": "Alice Johnson",
+    "rollNo": 9101,
+    "regNo": "REG9101",
+    "course": "Electrical Engineering",
+    "semester": "4",
+    "phone": "555-123-4567",
+    "email": "alice.johnson@example.com"
+  },
+  {
+    "name": "Bob Brown",
+    "rollNo": 1122,
+    "regNo": "REG1122",
+    "course": "Civil Engineering",
+    "semester": "3",
+    "phone": "444-987-6543",
+    "email": "bob.brown@example.com"
+  }
+]
