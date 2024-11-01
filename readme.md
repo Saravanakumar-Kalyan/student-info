@@ -29,7 +29,7 @@ your-project/
    git clone https://github.com/Saravanakumar-Kalyan/student-info.git
    ```
    ```sh
-   cd student-information-system
+   cd student-info
 
 2. **Install Dependencies:**
    ```sh
